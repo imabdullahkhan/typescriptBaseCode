@@ -17,7 +17,7 @@
     "pdevs": "tsc -p . -w"
   },
   "dependencies": {
-    "ascii-art": "0.0.2-alpha",
+    "ascii-art": "1.4.3",
     "assert": "^1.3.0",
     "bcrypt": "^3.0.6",
     "body-parser": "~1.13.2",
