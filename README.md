@@ -7,6 +7,3 @@ Feel free to download and use as per your needs.
 
 And don't forget to give credits where due! 
 
-Happy coding! (◕‿◕)
-
-Your partners at Sudofy
